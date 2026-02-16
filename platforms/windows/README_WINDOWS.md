@@ -2,7 +2,7 @@
 
 This project uses `pyproject.toml` for dependency management.
 
-Compilation
+## Compilation
 
 Run the following command from the root directory of the project to compile the application.
 
@@ -16,6 +16,6 @@ pyinstaller --clean --onedir --windowed `
 --collect-all ttkbootstrap `
 src/image_splitter_pro/main.py
 
-Running the Application
+## Running the Application
 
 Once completed, the executable will be located in the dist/ImageSplitterPro folder.
