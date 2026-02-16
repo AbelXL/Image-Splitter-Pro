@@ -42,11 +42,21 @@ Drop in one high-resolution shirt photo and generate a suite of detailed crops:
 
 ## 📐 Supported Aspect Ratios
 
-• Image Splitter Pro offers a comprehensive list of presets to ensure your crops fit most platforms. You can choose from: 1:1, 3:4, 4:3, 4:5, 16:9, 9:16, 3:2, 1.91:1
+Image Splitter Pro offers a comprehensive list of presets to ensure your crops fit most platforms.   
 
-• Custom: Set your own specific proportions.
+* **Options:**
+    * 1:1 
+    * 3:4 
+    * 4:3
+    * 4:5
+    * 16:9
+    * 9:16
+    * 3:2
+    * 1.91:1
 
-• None: Maintain the original aspect ratio of your source image.
+* **Custom: Set your own specific proportions.**
+
+* **None: Maintain the original aspect ratio of your source image.**
 
 
 ## 🚀 How It Works
@@ -214,3 +224,4 @@ Copyright (c) 2026 Abel Aramburo
 We hope this tool saves you countless hours and makes your workflow feel effortless.
 
 Happy cropping! 📸✨
+
