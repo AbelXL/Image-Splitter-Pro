@@ -8,7 +8,8 @@ Take a single photo, split it into several images, and upload them to your favor
 <br>
 Image Splitter Pro is a free, open-source desktop application built with privacy at its core. Available for Windows, macOS, and Linux, it ensures your photos never leave your computer. Unlike web-based tools, all processing happens locally—meaning no cloud uploads, no data tracking, and no privacy compromises.
 
-## 📱 Social Media: One master image, many platform-ready crops.
+## 📱 Social Media 
+One master image, many platform-ready crops.
 
 • 1:1 – Instagram Posts & Profile Pics
 
@@ -239,6 +240,7 @@ Copyright (c) 2026 Abel Aramburo
 We hope this tool saves you countless hours and makes your workflow feel effortless.
 
 Happy cropping! 📸✨
+
 
 
 
