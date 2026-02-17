@@ -69,7 +69,7 @@ Image Splitter Pro offers a comprehensive list of presets to ensure your crops f
     * 3:2
     * 1.91:1
 
-* **Custom: Set your own specific proportions.**
+* **Custom: Set your own specific aspect ratio.**
 
 * **None: Maintain the original aspect ratio of your source image.**
 
@@ -239,5 +239,6 @@ Copyright (c) 2026 Abel Aramburo
 We hope this tool saves you countless hours and makes your workflow feel effortless.
 
 Happy cropping! 📸✨
+
 
 
