@@ -42,7 +42,7 @@ Drop in one high-resolution shirt photo and generate a suite of detailed crops:
 </div>
 <br>
 
-## 🚀 Support the Project - [www.abelxl.com](https://www.abelxl.com/)
+## 🚀 Support the Project - [www.abelxl.com](https://www.abelxl.com/2026/01/support-us-image-splitter-pro.html)
 
 ## ✨ Key Features
 
@@ -239,6 +239,7 @@ Copyright (c) 2026 Abel Aramburo
 We hope this tool saves you countless hours and makes your workflow feel effortless.
 
 Happy cropping! 📸✨
+
 
 
 
