@@ -1,11 +1,20 @@
 ## 📸 Image Splitter Pro
 
-Take a single photo, split it into several images, and upload them to your favorite platforms.  <br><br>
+Take a single photo, split it into several images, and upload them to your favorite platforms.  
+
+<br>
+<div align="center">
+  <img src="/assets/demo/Image_Splitter_Pro-Social_Media_Croping.gif" alt="Image Splitter Pro Social Media Cropping">
+</div>
+<br>
+
+<br>
 <div align="center">
   <img src="/assets/demo/Image_Splitter_Pro_Main.png" alt="Image Splitter Pro Screenshot Main" width="350">
   <img src="/assets/demo/Image_Splitter_Pro_Prrofile_Editor.png" alt="Image Splitter Pro Screenshot Profile Editor" width="350">
 </div>
 <br>
+
 Image Splitter Pro is a free, open-source desktop application built with privacy at its core. Available for Windows, macOS, and Linux, it ensures your photos never leave your computer. Unlike web-based tools, all processing happens locally—meaning no cloud uploads, no data tracking, and no privacy compromises.
 
 ## 📱 Social Media 
@@ -36,6 +45,12 @@ Drop in one high-resolution shirt photo and generate a suite of detailed crops:
 • Sleeve (Cuffs and texture)
 
 • Hem (Finish and quality)
+
+<br>
+<div align="center">
+  <img src="/assets/demo/Image_Splitter_Pro-eBay_Shirt_Cropping.gif" alt="Image Splitter Pro eBay Shirt Cropping">
+</div>
+<br>
 
 <br>
 <div align="center">
@@ -240,6 +255,7 @@ Copyright (c) 2026 Abel Aramburo
 We hope this tool saves you countless hours and makes your workflow feel effortless.
 
 Happy cropping! 📸✨
+
 
 
 
